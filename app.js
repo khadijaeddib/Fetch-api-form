@@ -1,4 +1,4 @@
-const apiURL = 'https://crudcrud.com/api/2466a9f6e50f49788773ab94e5031517/posts'
+const apiURL = 'https://crudcrud.com/api/46fbdb9fc0884486b748990aebcadf45/posts'
 const postsForm = document.querySelector('form')
 
 
